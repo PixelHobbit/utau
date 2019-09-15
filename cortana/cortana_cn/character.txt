@@ -1,0 +1,3 @@
+name=cortana_cn
+image=cortana.bmp
+
